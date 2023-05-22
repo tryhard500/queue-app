@@ -1,0 +1,18 @@
+/* В работе */
+.status_1,
+.status_1:hover {
+    background-color: lightgreen;
+}
+
+/* В очереди */
+.status_2,
+.status_2:hover {
+    background-color: lightblue;
+}
+
+
+/* Завершено */
+.status_3,
+.status_3:hover {
+    background-color: lightgray;
+}
